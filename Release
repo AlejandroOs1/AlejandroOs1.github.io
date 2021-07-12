@@ -1,9 +1,0 @@
-Origin: AlejandroOs0 Beta
-Label: AlejandroOs0 Beta 
-Suite: stable
-Version: 1.2
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: Another Pirate Repo
-Icon: file://CydiaIcon.png
